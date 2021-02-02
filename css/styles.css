@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+input {
+    margin: 20px;
+    padding: 10px;
+    font-size: 1.5em;
+    background-color: tomato;
+    border-radius: 10px;
+    color: rgb(209, 255, 245);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img {
+    max-width: 500px;
+}
+
+h2 {
+    border: 1px solid black;
+    width: fit-content;
+    max-width: 400px;
+    margin: auto;
+    padding: 5px;
+}
+
+p {
+    font-family: cursive;
+    margin: 10px;
+}
